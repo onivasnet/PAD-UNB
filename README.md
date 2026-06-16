@@ -2,7 +2,7 @@
 
 Dashboard em Streamlit para analisar coerencia entre a atuacao legislativa de deputados federais e o perfil medio de seus partidos, usando arquivos locais dos Dados Abertos da Camara dos Deputados (https://dadosabertos.camara.leg.br/swagger/api.html?tab=staticfile)
 
-## O que o dashboard calcula
+## O que o dashboard apresenta
 
 - Classificacao tematica de proposicoes por TF-IDF com vocabulario-semente.
 - Vetores de atuacao por deputado combinando projetos, votacoes e frentes/grupos.
