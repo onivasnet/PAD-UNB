@@ -21,7 +21,7 @@ python -m pip install -r requirements.txt
 
 2. Coloque os arquivos CSV/JSON/XLSX da Camara dos Deputados na mesma pasta do projeto (`trabalho1`) ou informe outra pasta na barra lateral do dashboard.
 
-3. Execute:
+3. Execute: 
 
 ```bash
 python -m streamlit run py.py
