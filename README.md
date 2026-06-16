@@ -1,6 +1,6 @@
 # PAD-UNB
 
-Dashboard em Streamlit para analisar coerencia entre a atuacao legislativa de deputados federais e o perfil medio de seus partidos, usando arquivos locais dos Dados Abertos da Camara dos Deputados.
+Dashboard em Streamlit para analisar coerencia entre a atuacao legislativa de deputados federais e o perfil medio de seus partidos, usando arquivos locais dos Dados Abertos da Camara dos Deputados (https://dadosabertos.camara.leg.br/swagger/api.html?tab=staticfile)
 
 ## O que o dashboard calcula
 
